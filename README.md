@@ -63,4 +63,4 @@
     ```
 
 #### Pull Requests
-- [PULL REQUEST LINK](https://github.com/amani51/drf-api-permissions-postgres/pull/1)
+- [PULL REQUEST LINK](https://github.com/amani51/drf-auth/pull/1)
